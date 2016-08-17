@@ -1,0 +1,9 @@
+c:\users\49899\documents\visual studio 2015\Projects\Phisics_2D\Phisics_2D\bin\Debug\Phisics_2D.exe.config
+c:\users\49899\documents\visual studio 2015\Projects\Phisics_2D\Phisics_2D\bin\Debug\Phisics_2D.exe
+c:\users\49899\documents\visual studio 2015\Projects\Phisics_2D\Phisics_2D\bin\Debug\Phisics_2D.pdb
+c:\users\49899\documents\visual studio 2015\Projects\Phisics_2D\Phisics_2D\obj\Debug\Phisics_2D.Form1.resources
+c:\users\49899\documents\visual studio 2015\Projects\Phisics_2D\Phisics_2D\obj\Debug\Phisics_2D.Properties.Resources.resources
+c:\users\49899\documents\visual studio 2015\Projects\Phisics_2D\Phisics_2D\obj\Debug\Phisics_2D.csproj.GenerateResource.Cache
+c:\users\49899\documents\visual studio 2015\Projects\Phisics_2D\Phisics_2D\obj\Debug\Phisics_2D.exe
+c:\users\49899\documents\visual studio 2015\Projects\Phisics_2D\Phisics_2D\obj\Debug\Phisics_2D.pdb
+C:\Users\49899\Documents\Visual Studio 2015\Projects\Phisics_2D\Phisics_2D\obj\Debug\Phisics_2D.csprojResolveAssemblyReference.cache
